@@ -1,4 +1,4 @@
-runs-on: ubuntu-latest
+runs-on: Macro OS
 
 strategy:
   matrix:
